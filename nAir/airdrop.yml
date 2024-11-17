@@ -1,0 +1,30 @@
+LEGENDARY:
+  items:
+    - ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: POLISHED_BLACKSTONE_STAIRS
+      amount: 1
+MYTHIC:
+  items:
+    - ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: POLISHED_BLACKSTONE_STAIRS
+      amount: 1
+EPIC:
+  items:
+    - ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: POLISHED_BLACKSTONE_STAIRS
+      amount: 1
+RARE:
+  items:
+    - ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: POLISHED_BLACKSTONE_STAIRS
+      amount: 1
+COMMON:
+  items:
+    - ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: POLISHED_BLACKSTONE_STAIRS
+      amount: 1

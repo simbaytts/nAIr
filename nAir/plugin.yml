@@ -1,0 +1,14 @@
+name: nAir
+version: '1.0'
+main: wtf.n1zamu.nair.NAir
+api-version: '1.16'
+author: n1zamu
+depend: [DecentHolograms, WorldGuard]
+commands:
+  nAir:
+    permission: nAir.create
+    aliases:
+      - nAir
+permissions:
+  nAir.fly:
+    description: Право на флай на аирдропе!
